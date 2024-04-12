@@ -1,3 +1,5 @@
+OpenReview link: [Paper](https://openreview.net/forum?id=PtBzWCaCYB)
+
 An example command to run the experiments is 
 
 `python ./tf_cpu.py --root=/path/to/this/directory `
